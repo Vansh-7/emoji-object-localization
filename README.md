@@ -16,8 +16,7 @@ The network takes a `144x144` RGB image containing a single emoji and processes 
 2.  **Regression Head:** Predicts the `(x, y)` coordinates for a `52x52` bounding box.
 
 ### Visual Results
-<br>
-<img src="assets/demo.jpg" alt="Model Demo" width="800"/>
+<img src="assets/demo.jpg" alt="Model Demo" width="600"/>
 
 ---
 
