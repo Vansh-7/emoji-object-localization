@@ -17,7 +17,7 @@ The network takes a `144x144` RGB image containing a single emoji and processes 
 
 ### Visual Results
 <br>
-<img src="assets/demo.png" alt="Model Demo" width="800"/>
+<img src="assets/demo.jpg" alt="Model Demo" width="800"/>
 
 ---
 
